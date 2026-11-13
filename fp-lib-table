@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SLW-864574-5A-RA-N-D") (type "KiCad") (uri "${KIPRJMOD}/SLW-864574-5A-RA-N-D") (options "") (descr ""))
+)
